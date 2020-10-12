@@ -58,32 +58,5 @@ Create the classes for object-oriented programming such as:
 
 Assign some values to the users in the code in the main program.
 For example; “Deniz Tarak”, 27.04.1980, female, “DEU Kız Yurdu Buca Izmir Türkiye”, +90 232 1234567 
-Sample output:
 
-User1:   Stack -  S4                                                                                       User1 Score: 0        User2 Score: 0                                      
-User1:   Stack -  H4 S4                                                                                 User1 Score: 0        User2 Score: 0                                      
-User1:   Stack -  HQ H4 S4                                                                           User1 Score: 0        User2 Score: 0                                       
-User1:   Stack -  C5 HQ H4 S4                                                                     User1 Score: 0        User2 Score: 0                                       
-User2:   Stack -  D7                                                                                       User1 Score: 4        User2 Score: 0                                       
-User2:   Stack -  SA D7                                                                                 User1 Score: 4        User2 Score: 0                                       
-User1:   Stack -  CK                                                                                       User1 Score: 4        User2 Score: 0      
-User1:   Stack -  C7 CK                                                                                  User1 Score: 4        User2 Score: 0                                       
-User1:   Stack -  H6 C7 CK                                                                            User1 Score: 4        User2 Score: 0                                       
-User2:   Stack -  C9                                                                                       User1 Score: 5        User2 Score: 0                                       
-User2:   Stack -  C3 C9                                                                                  User1 Score: 5        User2 Score: 0                                       
-User2:   Stack -  D3 C3 C9                                                                            User1 Score: 5        User2 Score: 0                                       
-User2:   Stack -  S3 D3 C3 C9                                                                       User1 Score: 5        User2 Score: 0                                       
-User2:   Stack -  S6 S3 D3 C3 C9                                                                 User1 Score: 5        User2 Score: 0                                       
-User2:   Stack -  SK S6 S3 D3 C3 C9                                                             User1 Score: 5        User2 Score: 0                                       
-User2:   Stack -  D6 SK S6 S3 D3 C3 C9                                                       User1 Score: 5        User2 Score: 0                                       
-User1:   Stack -  C8                                                                                       User1 Score: 5        User2 Score: 9      
-User1:   Stack -  C2 C8                                                                                  User1 Score: 5        User2 Score: 9                                       
-User1:   Stack -  S2 C2 C8                                                                            User1 Score: 5        User2 Score: 9                                       
-User1:   Stack -  D2 S2 C2 C8                                                                      User1 Score: 5        User2 Score: 9                                       
-User1:   Stack -  HJ D2 S2 C2 C8                                                                  User1 Score: 5        User2 Score: 9                                       
-                                 
-User1 Score: 12
-User2 Score: 9                                        
-
-winner: User1
 
